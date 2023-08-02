@@ -2,7 +2,7 @@
 
 Meu nome é mariangel
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https:\\www.alura.pr.gov)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - ### Você pode entrar em contato comigo :
